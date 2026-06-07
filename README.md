@@ -11,7 +11,6 @@
   <a href="https://henrikeg554.github.io/Meu-Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-1D9E75?style=for-the-badge" alt="Open to Work"/>
 </p>
 
 ---
