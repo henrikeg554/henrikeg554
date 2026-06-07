@@ -66,15 +66,6 @@ Estou em busca da minha primeira oportunidade profissional como desenvolvedor we
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="center">
-  <img height="160" src="https://readme-stats-sigma-five.vercel.app/api?username=henrikeg554&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=534AB7&icon_color=534AB7" alt="Estatísticas do GitHub de Guilherme Henrike"/>
-  <img height="160" src="https://readme-stats-sigma-five.vercel.app/api/top-langs/?username=henrikeg554&layout=compact&theme=default&hide_border=true&title_color=534AB7" alt="Linguagens mais usadas por Guilherme Henrike"/>
-</p>
-
----
-
 ## O que estou construindo agora
 
 - Aprofundando conhecimentos em **JavaScript** (DOM, eventos, fetch API)
