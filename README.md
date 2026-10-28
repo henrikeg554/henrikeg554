@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Guilherme Henrike 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Front-end</b> · HTML · CSS · JavaScript · São Paulo, BR
+  <b>Desenvolvedor </b> · HTML · CSS · JavaScript · São Paulo, BR
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor front-end em formação, focado em criar interfaces responsivas, acessíveis e com boa experiência de usuário. Tenho trabalhado com HTML, CSS e JavaScript puro, construindo projetos que vão de portfólios e páginas de links até aplicações com persistência de dados.
+Sou desenvolvedor em formação, focado em criar interfaces responsivas, acessíveis e com boa experiência de usuário. Tenho trabalhado com HTML, CSS e JavaScript puro, construindo projetos que vão de portfólios e páginas de links até aplicações com persistência de dados.
 
 Estou em busca da minha primeira oportunidade profissional como desenvolvedor web — aberto a estágios e posições júnior.
 
